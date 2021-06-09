@@ -1,0 +1,1536 @@
+supervisor: couldn't exec /home/respeaker/nilaya/run.sh: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /home/respeaker/nilaya/run.sh: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /home/respeaker/nilaya/run.sh: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /home/respeaker/nilaya/run.sh: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /home/respeaker/nilaya/./run.sh: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /home/respeaker/nilaya/./run.sh: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /home/respeaker/nilaya/./run.sh: ENOEXEC
+supervisor: child process was not spawned
+supervisor: couldn't exec /home/respeaker/nilaya/./run.sh: ENOEXEC
+supervisor: child process was not spawned
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Failed to create secure directory (/var/www/.config/pulse): No such file or directory
+Failed to load cookie file from cookie: No such file or directory
+Traceback (most recent call last):
+  File "/home/respeaker/nilaya/main.py", line 30, in <module>
+    detector.start(detected_callback)
+  File "/home/respeaker/nilaya/snowboy/snowboydecoder.py", line 176, in start
+    stream_callback=audio_callback)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+OSError: [Errno -9996] Invalid input device (no default output device)
